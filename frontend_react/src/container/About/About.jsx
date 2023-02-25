@@ -20,8 +20,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I know that <span>Good Design</span> <br /> means{" "}
-        <span>Good Business</span>
+        A little <span>About </span> Me
       </h2>
 
       <div className="app__profiles">
