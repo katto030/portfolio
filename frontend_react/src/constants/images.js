@@ -26,6 +26,8 @@ import about04 from "../assets/about04.png";
 import profile from "../assets/profile.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
+import paper from "../assets/resume.png";
+import resume from "../assets/resume.pdf";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -37,36 +39,10 @@ import spotify from "../assets/spotify.png";
 
 export default {
   email,
-  mobile,
-  api,
-  cpp,
-  css,
-  figma,
-  flutter,
-  git,
-  graphql,
-  html,
-  javascript,
-  mu5,
-  node,
-  python,
   react,
-  redux,
   sass,
   typescript,
-  vue,
-  about01,
-  about02,
-  about03,
-  about04,
   profile,
-  circle,
-  logo,
-  adidas,
-  amazon,
-  asus,
-  bolt,
-  nb,
-  skype,
-  spotify,
+  paper,
+  resume,
 };
